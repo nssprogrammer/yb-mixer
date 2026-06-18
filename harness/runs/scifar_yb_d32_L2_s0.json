@@ -1,0 +1,11 @@
+{
+  "task": "scifar",
+  "model": "yb",
+  "params": 15046,
+  "best_val_acc": 0.25,
+  "epochs": 2,
+  "dim": 32,
+  "depth": 2,
+  "seed": 0,
+  "seconds": 0.2
+}

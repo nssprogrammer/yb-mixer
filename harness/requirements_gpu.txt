@@ -1,0 +1,6 @@
+torch>=2.0          # install the CUDA build matching your driver
+torchvision>=0.15   # MNIST / CIFAR download
+datasets>=2.0       # IMDB (LRA-Text); optional
+numpy>=1.24
+# optional, for the real Mamba baseline (needs matching CUDA toolkit):
+# mamba-ssm

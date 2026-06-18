@@ -1,0 +1,11 @@
+{
+  "task": "scifar",
+  "model": "rwkv",
+  "params": 27972,
+  "best_val_acc": 0.28125,
+  "epochs": 2,
+  "dim": 32,
+  "depth": 2,
+  "seed": 0,
+  "seconds": 2.5
+}
