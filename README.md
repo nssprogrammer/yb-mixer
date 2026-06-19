@@ -3,8 +3,7 @@
 **Author:** Snigdha Chandan Khilar (Independent Researcher) · `snkhilar@gmail.com`
 
 YB-Mixer is a sequence token-mixing layer derived from the free-fermion / generalized
-Yang–Baxter (gYBE) structure of *hidden* transverse-field Ising models
-([Sinha–Maity–Padmanabhan–Korepin, arXiv:2605.30007](https://arxiv.org/abs/2605.30007)).
+Yang–Baxter (gYBE) structure of *hidden* transverse-field Ising models.
 
 The design rests on one transferable principle from integrable systems:
 
@@ -16,7 +15,6 @@ Concretely, the *Ising exchange algebra* (an extraspecial-2-group relation) cert
 and (ii) **commuting transfer matrices** → inference is **order-free** and **variable-budget
 ("anytime")**.
 
-The full paper is in [`paper/yb_mixer.pdf`](paper/yb_mixer.pdf) (source: `paper/yb_mixer.tex`).
 
 ## Results at a glance (all reproducible)
 
